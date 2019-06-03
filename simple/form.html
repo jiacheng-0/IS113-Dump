@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a href="/">EXAM / </a>
+<form action="process.php" method="get">
+
+    Enter your name:
+    <input name="fullname" type="text"/> <br>
+
+    Enter your gender:
+    <!--Below is a drop down list-->
+    <!--<select name="gender">-->
+    <!--<option value="M">Male</option>-->
+    <!--<option value="F">Female</option>-->
+    <!--</select>-->
+    <!--<br>-->
+
+    <!--but the question wants us to use radio-->
+    <input name="gender" type="radio" value="M"> Male
+    <input checked="checked" name="gender" type="radio" value="F"> Female
+    <!-- checked same as checked="checked" -->
+    <br>
+
+    <!--Creates a Drop Down List-->
+    Select your favourite fruit:
+    <select name="fruit">
+        <option value="">-- Select One --</option>
+        <option value="apple">apple</option>
+        <option value="orange">orange</option>
+        <option value="grape">grape</option>
+        <option value="pear">pear</option>
+        <!--<option>pear</option>-->
+        <!--value="pear"-->
+    </select>
+    <br>
+
+    <input type="submit" value="Send"/>
+
+</form>
+
+</body>
+</html>

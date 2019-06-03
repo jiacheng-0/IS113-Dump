@@ -1,0 +1,131 @@
+<!--
+    Name:  Teo Jia Cheng
+    Email: jcteo.2018
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ah Kong BoBa Tea</title>
+
+    <style type="text/css">
+        table {
+            border-collapse: collapse;
+            border: 1px solid black;
+            width: 50%;
+        }
+
+        th, td {
+            border: 1px solid black;
+        }
+
+        h3 {
+            margin-top: 2px;
+            margin-bottom: 2px;
+        }
+    </style>
+</head>
+
+<body>
+<!-- Insert your codes in the following -->
+
+<h1>WELCOME TO AH KONG BOBA TEA</h1>
+
+<form action="q2.php" method="post">
+    <table>
+        <tr>
+            <th colspan="4"><h2>BoBa Order Form</h2></th>
+        </tr>
+        <tr>
+            <td colspan="4"><h3> Step 1: Select your Tea</h3></td>
+        </tr>
+        <tr>
+
+            <td colspan="3"><STRONG> Tea Type</STRONG></td>
+            <th>Price</th>
+
+        </tr>
+        <tr>
+
+            <td colspan="3" width="80%">
+                <label>
+                    <input type="radio" name="tea" value="Ah Kong Original Milk Tea">
+                    Ah Kong Original Milk Tea
+                </label>
+            </td>
+            <td width="22%">$3.50</td>
+
+        </tr>
+        <tr>
+            <td colspan="3">
+                <label>
+                    <input type="radio" name="tea" value="Brown Sugar Green Tea Macchiato">
+                    Brown Sugar Green Tea Macchiato
+                </label>
+            </td>
+            <td>$3.80</td>
+
+        </tr>
+        <tr>
+
+            <td colspan="3">
+                <label>
+                    <input type="radio" name="tea" value="Earl Grey Milk Tea">
+                    Earl Grey Milk Tea
+                </label>
+            </td>
+            <td>$3.00</td>
+
+        </tr>
+        <tr>
+
+            <td colspan="3">
+                <label>
+                    <input type="radio" name="tea" value="Rainbow Milk Tea">
+                    Rainbow Milk Tea
+                </label>
+            </td>
+            <td>$4.00</td>
+
+        </tr>
+        <tr>
+            <td colspan="4"><h3>Step 2: Select Your Topping (Optional) </h3>
+                <small>(Each Topping + additional 50ct)</small>
+            </td>
+        </tr>
+        <tr>
+            <td width="25%">
+                <label>
+                    <input type="checkbox" name="topping[]" value="Pearl">
+                    Pearl
+                </label>
+            </td>
+            <td width="25%">
+                <label>
+                    <input type="checkbox" name="topping[]" value="Herbal Jelly">
+                    Herbal Jelly
+                </label>
+            </td>
+            <td width="25%">
+                <label>
+                    <input type="checkbox" name="topping[]" value="Nata de Coco">
+                    Nata de Coco
+                </label>
+            </td>
+            <td width="25%">
+                <label>
+                    <input type="checkbox" name="topping[]" value="Aloe Vera">
+                    Aloe Vera
+                </label>
+            </td>
+
+        </tr>
+
+    </table>
+    <br>
+
+    <input type="reset" name="Reset"><input type="submit" name="submit">
+</form>
+</body>
+
+</html>

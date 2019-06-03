@@ -1,0 +1,111 @@
+<html>
+<head>
+    <title>Week 3 - form.html</title>
+
+    <!-- CSS -->
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        
+        table, td, th {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Form with Some Input Fields</h1>
+    <h2>My current location: (/is113/week3/form2.html)</h2>
+
+    <hr>
+
+    <!-- Form Input Fields must be inside <form>....</form> -->
+
+    <form action='process_form.php' method='GET'>
+        <table>
+
+            <tr>
+                <td>
+                    Full name
+                </td>
+                <td>
+                    <input type='text' name='fullname' size='30' maxlength='50' required placeholder="Type your full name">
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Gender
+                </td>
+                <td>
+                    <input type='radio' name='gender' value='female' checked> Female
+                    <br>
+                    <input type='radio' name='gender' value='male'> Male
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    University
+                </td>
+                <td>
+                    <select name='university'>
+                        <option value='SUTD'>Singapore University of Technology & Design</option>
+                        <option value='SMU'>Singapore Management University</option>
+                        <option value='NUS'>National University of Singapore</option>
+                        <option value='NTU'>Nanyang Technological University</option>
+                        <option value='SIT'>Singapore Institute of Technology</option>
+                        <option value='Others'>Not Listed</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    University Year (Current)
+                </td>
+                <td>
+                    <input type='number' name='university_year' min='1' max='4' required placeholder="1 to 4">
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Sports I Play
+                </td>
+                <td>
+                    <ul style="list-style-type: none;">
+                        <li><input type='checkbox' name='sports[]' value='football'> Football</li>
+                        <li><input type='checkbox' name='sports[]' value='baseball'> Baseball</li>
+                        <li><input type='checkbox' name='sports[]' value='basketball'> Basketball</li>
+                        <li><input type='checkbox' name='sports[]' value='netball'> Netball</li>
+                        <li><input type='checkbox' name='sports[]' value='volleyball'> Volleyball</li>
+                        <li><input type='checkbox' name='sports[]' value='badminton'> Badminton</li>
+                        <li><input type='checkbox' name='sports[]' value='swimming'> Swimming</li>
+                    </ul>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Tell us more about yourself
+                </td>
+                <td>
+                    <textarea name='selfintro' cols='50' rows='10' required 
+                    placeholder="Where are you from? What's interesting about yourself?"></textarea>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan='2' style="text-align: center;">
+                    <input type='submit' value='Press This Button to Submit Form'>
+                </td>
+            </tr>
+
+        </table>
+    
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,134 @@
+<html>
+<head>
+    <title>Week 3 - form.html</title>
+</head>
+<body>
+
+    <h1>Form with Some Input Fields</h1>
+    <h2>My current location: (/is113/week3/form.html)</h2>
+
+    <hr>
+
+    <!-- Form Input Fields must be inside <form>....</form> -->
+
+    <!--
+        FORM METHOD (GET vs. POST)
+
+        Both methods will pass form input fields/data to the PHP file (specified in form ACTION).
+
+        A) Using GET, the form input fields/values will be APPENDED to the URL.
+          Example:
+              http://somedomain.com/stocks.php?exchange=NASDAQ&symbol=AAPL
+              - See how two form input fields (exchange, symbol)
+                and their corresponding user-input values ("NASDAQ" and "AAPL")
+                are appended to the destination URL (after ?)
+        
+        B) Using POST, the form input fields/values will be stored in the body of
+           the HTTP request.
+           - It will NOT be appended to the URL, and thus, it will NOT be shown in the
+             web browser's address bar.
+
+        =================================================================================
+        SO, when should you use GET vs. POST?
+
+        1) You should use GET when the user is requesting data from your application.
+           Examples:
+               - Google Search (the user is requesting search results from Google)
+
+        2) You should use POST when the user is pushing 
+           (inserting or updating or deleting) data to your application.
+           Examples:
+               - The user is submitting username/password and other details to
+                 register and create a new account.
+               - Making payment (passing credit card info) to make purchase at Amazon.com website.
+
+    -->
+
+
+    <!-- For demonstration purposes, we first usee method GET and then change to POST later on. -->
+    <form action='process_form.php' method='GET'>
+        <table border='1'>
+
+            <tr>
+                <td>
+                    Full name
+                </td>
+                <td>
+                    <input type='text' name='fullname' size='30' maxlength='50'>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Gender
+                </td>
+                <td>
+                    <input type='radio' name='gender' value='female'> Female
+                    <br>
+                    <input type='radio' name='gender' value='male'> Male
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    University
+                </td>
+                <td>
+                    <select name='university'>
+                        <option value='SUTD'>Singapore University of Technology & Design</option>
+                        <option value='SMU'>Singapore Management University</option>
+                        <option value='NUS'>National University of Singapore</option>
+                        <option value='NTU'>Nanyang Technological University</option>
+                        <option value='SIT'>Singapore Institute of Technology</option>
+                        <option value='Others'>Not Listed</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    University Year (Current)
+                </td>
+                <td>
+                    <input type='number' name='university_year' min='1' max='4' value='1'>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Sports I Play
+                </td>
+                <td>
+                    <ul style="list-style-type: none;">
+                        <li><input type='checkbox' name='sports[]' value='football'> Football</li>
+                        <li><input type='checkbox' name='sports[]' value='baseball'> Baseball</li>
+                        <li><input type='checkbox' name='sports[]' value='basketball'> Basketball</li>
+                        <li><input type='checkbox' name='sports[]' value='netball'> Netball</li>
+                        <li><input type='checkbox' name='sports[]' value='volleyball'> Volleyball</li>
+                        <li><input type='checkbox' name='sports[]' value='badminton'> Badminton</li>
+                        <li><input type='checkbox' name='sports[]' value='swimming'> Swimming</li>
+                    </ul>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Tell us more about yourself
+                </td>
+                <td>
+                    <textarea name='selfintro' cols='50' rows='10'></textarea>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan='2' align='center'>
+                    <input type='submit' value='Press This Button to Submit Form'>
+                </td>
+            </tr>
+
+        </table>
+    
+    </form>
+
+</body>
+</html>

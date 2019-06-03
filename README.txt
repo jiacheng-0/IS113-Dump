@@ -1,0 +1,1 @@
+All the files and folders in my c:\wamp64\www will be dumped here except for winnie tuition stuff.

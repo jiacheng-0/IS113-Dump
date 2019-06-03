@@ -1,0 +1,118 @@
+<html>
+<head>
+    <title>Week 3 - links.html</title>
+</head>
+<body>
+
+    <h1>Anchor Tags & Paths</h1>
+    <h2>My current location: (/is113/week3/links.html)</h2>
+
+    <!-- ############################################################################# -->
+    <!-- ###############################   Example 1  ################################ -->
+    <!-- ############################################################################# -->
+    <hr>
+    <h2>Linking to Local Webpages (/is113/week2/justin.html)</h2>
+    <ol>
+
+        <!-- absolute URL (specify both protocol HTTP & domain name) -->
+        <!-- colon slash slash :// PROTOCOL + Web -->
+        <li>
+            <a href='http://localhost/is113/week2/justin.html'>Click -> http://localhost/is113/week2/justin.html</a>
+        </li>
+
+        <!-- WebRoot-relative URL starts with forward slash /
+             NOTE: Typically, a file path (not hyperlink) that starts from the top
+                   (for example, C:\ or D:\ on a Windows computer) are sometimes referred to as
+                      a) absolute FILE PATH, or
+                      b) full FILE PATH
+             When we talk about URLs (web links), these absolute/full paths are called "WebRoot-Relative"
+             (because when you start HREF with a forward slash /, this reference is
+              relative to the webroot) -->
+        <li>
+            <a href='/is113/week2/justin.html'>Click -> /is113/week2/justin.html</a>
+            <!-- Your web server automatically append YOUR current web server hostname
+                 and thus, this URL will look like this:
+                     http://localhost/is113/week2/justin.html
+            -->
+        </li>
+
+        <!-- relative URL (relative TO this file home.html) uses .. to navigate up and / to navigate down -->
+        <li>
+            <a href='../week2/justin.html'>Click -> '../week2/justin.html'</a>
+            <!-- First, your web server will read .. and go back ONE directory UP.
+                 Then, the eventual path becomes:
+                     /is113/week2/justin.html 
+                 Next, your web server automatically append YOUR current web server hostname
+                 and thus, this URL will look like this:
+                     http://localhost/is113/week2/justin.html
+            -->
+        </li>
+        <li>
+            <a href="exams/samplepaper.html">Going into "exams" folder</a>
+        </li>
+    </ol>
+
+
+    <!-- ############################################################################# -->
+    <!-- ###############################   Example 2  ################################ -->
+    <!-- ############################################################################# -->
+    <hr>
+    <h2>Linking to External (someone else's website) Webpages (Cristiano Ronaldo's Instagram Page)</h2>
+    <ol>
+
+        <!-- absolute URL (specify both protocol HTTP & domain name) -->
+        <li>
+            <a href='https://www.instagram.com/cristiano/'>Click</a>
+        </li>
+
+        <!-- WebRoot-Relative URL... is relative to YOUR webroot.
+             Your webroot is in http://localhost/
+             Hmm... but then, Cristiano Ronaldo's instagram page is hosted at:
+                https://www.instagram.com
+             So you cannot use WebRoot-Relative URL when referring to a webpage or directory
+             hosted at someone else's server.
+        -->
+        <li>
+            Whoopsie... can we use webroot-relative URL to refer to someone else's website? NO.
+        </li>
+
+        <!-- Same as in the case of WebRoot-relative URL
+             This path is relative to YOUR webroot (your web server on your local computer).
+             And your webroot is at http://localhost/
+             Hmm... but then, Cristiano Ronaldo's instagram page is hosted at:
+                https://www.instagram.com
+             So you cannot use relative URL when referring to a webpage or directory
+             hosted at someone else's server.
+        -->
+        <li>
+            Whoopsie... can we use relative URL to refer to someone else's website? NO.
+        </li>
+    </ol>
+
+
+    <!-- ############################################################################# -->
+    <!-- ###############################   Example 3  ################################ -->
+    <!-- ############################################################################# -->
+    <hr>
+    <h2>Linking to Local Webpages (/is113/week3/exams/samplepaper.html)</h2>
+    <h3>Click on any of the links below for <font color='red'>DIY Exercises</font></h3>
+    <ol>
+
+        <!-- absolute URL (specify both protocol HTTP & domain name) -->
+        <li>
+            <a href='http://localhost/is113/week3/exams/samplepaper.html'>Click</a>
+        </li>
+
+        <!-- WebRoot-relative URL starts with forward slash / -->
+        <li>
+            <a href='/is113/week3/exams/samplepaper.html'>Click</a>
+        </li>
+
+        <!-- relative URL (relative TO this file home.html) uses .. to navigate up and / to navigate down -->
+        <li>
+            <a href='exams/samplepaper.html'>Click</a>
+        </li>
+    </ol>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/WinnieTuition/Lab6/myworld.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/extra10/cat3/create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/extra11/q2/create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/extra11/q3/create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/extra11/q4/setup.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/is113/extra11/q7/database/create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/extra12/q4/safe/database/create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/extra12/q4/unsafe/database/create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/extra12/q5/database.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/trial lab test 2/database/trial_lt2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/week12/SESSION_DB/database/create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/is113/week13/ex1/database/create.sql" dialect="MySQL" />
+  </component>
+</project>

@@ -1,0 +1,332 @@
+<html>
+<head>
+    <title>Week 3 - tables.html</title>
+</head>
+<body>
+
+    <h1>HTML tables</h1>
+    <h2>My current location: (/is113/week3/tables.html)</h2>
+
+    <!-- ############################################################################# -->
+    <!-- ###############################   Example 1  ################################ -->
+    <!-- ############################################################################# -->
+    <hr>
+    <h2>Table (no colspan, no rowspan)</h2>
+
+    <table border='1' bgcolor="yellow">
+        <!-- 1st row -->
+        <tr>
+            <!-- 1st row columns are header columns so I want it to be bold and centered 
+                 I can use <th> for table head
+                 instead of <td> for table data (normal columns) 
+            -->
+            <th>ID</th>
+            <th>Name</th>
+            <th>Gender</th>
+        </tr>
+
+        <!-- 2nd row -->
+        <tr>
+            <td>123</td>
+            <td>Angelina Jolie</td>
+            <td>Female</td>
+        </tr>
+
+        <!-- 3rd row -->
+        <tr>
+            <td>456</td>
+            <td>Kristen Stewart</td>
+            <td>Female</td>
+        </tr>
+
+        <!-- 4th row -->
+        <tr>
+            <td>789</td>
+            <td>Brad Pitt</td>
+            <td>Male</td>
+        </tr>
+
+        <!-- 5th row -->
+        <tr>
+            <td>999</td>
+            <td>Benedict Cucumber</td>
+            <td>Male</td>
+        </tr>
+
+    </table>
+
+
+
+    <!-- ############################################################################# -->
+    <!-- ###############################   Example 2  ################################ -->
+    <!-- ############################################################################# -->
+    <hr>
+    <h2>Table (using colspan, no rowspan)</h2>
+
+    <table border='1'>
+        <!-- 1st row -->
+        <tr>
+            <!-- 1st row columns are header columns so I want it to be bold and centered 
+                 I can use <th> for table head
+                 instead of <td> for table data (normal columns) 
+            -->
+            <th>ID</th>
+            <th>Name</th>
+            <th>Gender</th>
+        </tr>
+
+        <!-- 2nd row 
+            I want to insert a ROW where 3 columns are merged into ONE column
+            For this, I use colspan.
+            <td colspan=3> OR <td colspan='3'> both will do.
+            
+            Why <td colspan='3'> is preferred?
+            You might ask oh... 3 is a number, so we don't have to qualify it with ''.
+            It is a GOOD PRACTICE to quote it with '' regardless of whether it is a
+            number or a string.
+
+            If you're used to not qualifying attribute values, you MAY forget...
+            later on when you have to qualify a string with whitespaces inbetween.
+        -->
+        <tr>
+            <td colspan='3'>I'm gonna take up 3 columns - YAY</td>
+        </tr>
+
+        <!-- 3rd row -->
+        <tr>
+            <td>123</td>
+            <td>Angelina Jolie</td>
+            <td>Female</td>
+        </tr>
+
+        <!-- 4th row -->
+        <tr>
+            <td>456</td>
+            <td>Kristen Stewart</td>
+            <td>Female</td>
+        </tr>
+
+        <!-- 5th row 
+            I want to insert a ROW where 2 columns are merged into ONE column.
+            AND, I have a normal 1 column right after that.
+            For this, I use colspan.
+        -->
+        <tr>
+            <!-- colspan='2' in the first TD
+                 tells the TD... "Hey, I need you to take up 2 columns worth of space"
+            -->
+            <td colspan='2'>I'm gonna take up 2 columns</td>
+            <td>I'm just a normal 1 column</td>
+        </tr>
+
+        <!-- 6th row -->
+        <tr>
+            <td>789</td>
+            <td>Brad Pitt</td>
+            <td>Male</td>
+        </tr>
+
+        <!-- 7th row -->
+        <tr>
+            <td>I'm just a normal 1 column</td>
+            <!-- colspan='2' in the second TD
+                 tells the TD... "Hey, I need you to take up 2 columns worth of space"
+            -->
+            <td colspan='2'>I'm gonna take up 2 columns</td>
+        </tr>
+
+        <!-- 8th row -->
+        <tr>
+            <td>999</td>
+            <td>Benedict Cucumber</td>
+            <td>Male</td>
+        </tr>
+
+    </table>
+    
+
+
+
+    <!-- ############################################################################# -->
+    <!-- ###############################   Example 3  ################################ -->
+    <!-- ############################################################################# -->
+    <hr>
+    <h2>Table (no colspan, using rowspan)</h2>
+
+    <table border='1'>
+        <!-- 1st row -->
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Gender</th>
+        </tr>
+
+        <!-- 2nd row 
+            Notice that 2nd row and 3rd row - both have the same GENDER value of 'female'.
+            I want to combine these two cells into ONE cell.
+               1) Row 2, Column 3
+               2) Row 3, Column 3
+            So, looks like I should combine "Column 3" across 2 rows (Row 2 and Row 3).
+            How do I do that? (see below)
+        -->
+        <tr>
+            <td>123</td>
+            <td>Angelina Jolie</td>
+            <!--
+                If you wish to combine cells across MULTIPLE rows,
+                   1) Go to the cell (in this case, Column 3) in the TOP MOST row (in this case, Row 2)
+                   2) use 'rowspan' to indicate HOW MANY CELLS (in total) you want to SPAN (in this case, 2 rows in total)
+                      <td rowspan='2'>
+            -->
+            <td rowspan='2'>Female</td>
+        </tr>
+
+        <!-- 3rd row -->
+        <tr>
+            <td>456</td>
+            <td>Kristen Stewart</td>
+            <!--
+                The below <td> is no longer needed because it's repetitive.
+                Remember? You instructed the cell RIGHT ABOVE THIS to SPAN across 2 rows.
+                <td>Female</td>
+            -->
+        </tr>
+
+        <!-- 4th row -->
+        <tr>
+            <td>789</td>
+            <td>Brad Pitt</td>
+            <td rowspan='2'>Male</td>
+        </tr>
+
+        <!-- 5th row -->
+        <tr>
+            <td>999</td>
+            <td>Benedict Cucumber</td>
+            <!--
+            <td>Male</td>
+            -->
+        </tr>
+
+    </table>
+
+
+
+    <!-- ############################################################################# -->
+    <!-- ##############################   Exercise 1  ################################ -->
+    <!-- ############################################################################# -->
+    <hr>
+    <h2>Table Exercise 1 (DIY)</h2>
+    <h3><font color='red'>Create a table that looks like the below image.</font></h3>
+    <img src='images/table1.jpg'>
+
+    <!-- Your code goes here BELOW
+         Modify the table below. Don't worry about shading, font size/face.
+         Modify so that colspan is done correctly.
+    -->
+    <table border='1' style="border-collapse: collapse;">
+        <tr>
+            <th>Item/Desc.</th>
+            <th>Qty.</th>
+            <th>@</th>
+            <th>Price</th>
+        </tr>
+
+        <tr>
+            <td>Paperclips (Box)</td>
+            <td>100</td>
+            <td>1.15</td>
+            <td>115.00</td>
+        </tr>
+
+        <tr>
+            <td>Paper (Case)</td>
+            <td>10</td>
+            <td>45.99</td>
+            <td>459.90</td>
+        </tr>
+
+        <tr>
+            <td>Wastepaper Baskets</td>
+            <td>2</td>
+            <td>17.99</td>
+            <td>35.98</td>
+        </tr>
+
+        <tr>
+            <td colspan="3">Subtotal</td>
+            <!--<td></td>-->
+            <!--<td></td>-->
+            <td>610.88</td>
+        </tr>
+
+        <tr>
+            <td colspan="2">Tax</td>
+            <!--<td></td>-->
+            <td>7%</td>
+            <td>42.76</td>
+        </tr>
+
+        <tr>
+            <td colspan="3">Total</td>
+            <!--<td></td>-->
+            <!--<td></td>-->
+            <td>653.64</td>
+        </tr>
+
+    </table>
+
+
+
+    <!-- ############################################################################# -->
+    <!-- ##############################   Exercise 2  ################################ -->
+    <!-- ############################################################################# -->
+    <hr>
+    <h2>Table Exercise 2 (DIY)</h2>
+    <h3><font color='red'>Create a table that looks like the below image.</font></h3>
+    <img src='images/table2.jpg'>
+    
+    <!-- Your code goes here BELOW
+         Modify the table below. Don't worry about shading, font size/face.
+         Modify so that rowspan is done correctly.
+    -->
+    <table border='1'>
+        <tr>
+            <th></th>
+            <th></th>
+            <th>Bob</th>
+            <th>Alice</th>
+        </tr>
+
+        <tr>
+            <td rowspan="2">Favorite</td>
+            <td>Color</td>
+            <td>Blue</td>
+            <td>Purple</td>
+        </tr>
+
+        <tr>
+            <!--<td>Favorite</td>-->
+            <td>Flavor</td>
+            <td>Banana</td>
+            <td>Chocolatae</td>
+        </tr>
+
+        <tr>
+            <td rowspan="2">Least Favorite</td>
+            <td>Color</td>
+            <td>Yellow</td>
+            <td>Pink</td>
+        </tr>
+
+        <tr>
+            <!--<td>Least Favorite</td>-->
+            <td>Flavor</td>
+            <td>Mint</td>
+            <td>Walnut</td>
+        </tr>
+
+    </table>
+
+</body>
+</html>

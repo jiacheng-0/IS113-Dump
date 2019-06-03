@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25c4cbf9-431f-4697-aa2b-06e00a0f1a63" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="bcc91c3f-58ca-4847-a80c-875e9710b15f" />
+    </checked>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="www" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IS113-2019S2-LT2/q1/display.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exercse</find>
+      <find>text</find>
+      <find>vardump</find>
+      <find>l</find>
+      <find>login_valid</find>
+      <find>msg</find>
+      <find>justin</find>
+      <find>strpos</find>
+      <find>elseif</find>
+      <find>row</find>
+      <find>rowspan</find>
+      <find>ConnectionManager</find>
+      <find>entry</find>
+      <find>searchByCategoriesPriceRange</find>
+      <find>updateHeadline</find>
+      <find>sear</find>
+      <find>head</find>
+      <find>get_star</find>
+      <find>create_schedule</find>
+      <find>lecture</find>
+      <find>generate_board</find>
+      <find>banner</find>
+      <find>design</find>
+      <find>about_team</find>
+      <find>block</find>
+      <find>aside</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\wamp64\www\LT2</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/IS113-2019S2-LT2" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jcteo.2018/q3/classes/LectureDAO.php" />
+        <option value="$PROJECT_DIR$/LT2/resources/q3/display.php" />
+        <option value="$PROJECT_DIR$/quiz/week3/hahaha.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Q5/include/pear.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Q6/index.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Q6/middle.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Q6/display.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Jermyn/display.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Jermyn/index.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Q10/second.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Q10/first.php" />
+        <option value="$PROJECT_DIR$/IS113-2019S2-LT2/q1/display.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q5/Sudoku.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q5/display.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Scenario/get.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/create.sql" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/order.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/display.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Scenario/curlyBraces.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Wei Chen/form.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Wei Chen/process.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/include/Account.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/reset-view.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/reset.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/include/AccountDAO.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/invoice.php" />
+        <option value="$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/test1.php" />
+        <option value="$PROJECT_DIR$/HTML CSS/M1_Winnie_184317Y_Lab4/aboutus.html" />
+        <option value="$PROJECT_DIR$/HTML CSS/M1_Winnie_184317Y_Lab3_Assignment1/aboutus.html" />
+        <option value="$PROJECT_DIR$/HTML CSS/M1_Winnie_184317Y_Lab3_Assignment1/_stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/HTML CSS/Winnie/css/main.css" />
+        <option value="$PROJECT_DIR$/HTML CSS/M1_Winnie_184317Y_Lab3_Assignment1/originalname.txt" />
+        <option value="$PROJECT_DIR$/HTML CSS/ProfSolution/aboutus.html" />
+        <option value="$PROJECT_DIR$/HTML CSS/ProfSolution/_stylesheets/aboutus.css" />
+        <option value="$PROJECT_DIR$/HTML CSS/ProfSolution/_stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/HTML CSS/Winnie/aboutus.html" />
+        <option value="$PROJECT_DIR$/HTML CSS/Winnie/css/aboutus.css" />
+        <option value="$PROJECT_DIR$/WinnieTuition/test1.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/test2.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab5/checklogin1.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab5/Ex4.2.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab5/Ex4_insert.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab5/Ex4_create_table.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab5/Ex4.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab5/login.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab5/checklogin.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab6/myworld.sql" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab6/country.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab6/country_menu.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab6/test.php" />
+        <option value="$PROJECT_DIR$/WinnieTuition/Lab6/Assignment1.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="46d70e8b-f7b2-4f16-b30b-ab82998b4abb" name="no port" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1947" />
+    <option name="height" value="1107" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548141251294" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bin/php/php7.2.10/php.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\LT2-2019-Prep\IS113_TrialLT1_SetA_2018 James" />
+      <recent name="C:\wamp64\www\LT2-2019-Prep\IS113_TrialLT1_SetA_2018" />
+      <recent name="C:\wamp64\www\LT2-2019-Prep\Trial Lab Test 1 (Set A)" />
+      <recent name="C:\wamp64\www\LT2-2019-Prep\LT1_2018" />
+      <recent name="C:\wamp64\www\is113\week13\ex1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\WinnieTuition\Lab6" />
+      <recent name="C:\wamp64\www\FINALS-Prep-TrialFinalExam\MCQ\Q10" />
+      <recent name="C:\wamp64\www\FINALS-Prep-TrialFinalExam\MCQ\Q9" />
+      <recent name="C:\wamp64\www\FINALS-Prep-TrialFinalExam\MCQ" />
+      <recent name="C:\wamp64\www\FINALS-Prep-TrialFinalExam\Q1\www\secret" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.Ex4_insert.php">
+    <configuration name="form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/simple/form.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/is113/week2/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex4.2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/WinnieTuition/Lab5/Ex4.2.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex4_insert.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/WinnieTuition/Lab5/Ex4_insert.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex4.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/WinnieTuition/Lab5/Ex4.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="PersonTest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/CodeStepByStep/PersonTest.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.Ex4_insert.php" />
+        <item itemvalue="PHP Script.Ex4.php" />
+        <item itemvalue="PHP Script.Ex4.2.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.form.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25c4cbf9-431f-4697-aa2b-06e00a0f1a63" name="Default Changelist" comment="" />
+      <created>1546929128322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546929128322</updated>
+      <workItem from="1546929129999" duration="558000" />
+      <workItem from="1546988975064" duration="29000" />
+      <workItem from="1547480921662" duration="1735000" />
+      <workItem from="1547484530609" duration="526000" />
+      <workItem from="1547526398672" duration="10000" />
+      <workItem from="1547533493620" duration="433000" />
+      <workItem from="1547544628905" duration="354000" />
+      <workItem from="1547559435649" duration="229000" />
+      <workItem from="1547559682001" duration="1052000" />
+      <workItem from="1547560749127" duration="65000" />
+      <workItem from="1547565208050" duration="1503000" />
+      <workItem from="1547607003172" duration="48000" />
+      <workItem from="1547623867387" duration="139000" />
+      <workItem from="1547624246874" duration="479000" />
+      <workItem from="1547902251670" duration="6999000" />
+      <workItem from="1547909921560" duration="1012000" />
+      <workItem from="1547910970999" duration="15000" />
+      <workItem from="1547911002140" duration="3504000" />
+      <workItem from="1547914886078" duration="1970000" />
+      <workItem from="1548028494828" duration="3231000" />
+      <workItem from="1548118001534" duration="6000" />
+      <workItem from="1548118021030" duration="4000" />
+      <workItem from="1548118042487" duration="2534000" />
+      <workItem from="1548125316457" duration="890000" />
+      <workItem from="1548127347789" duration="1268000" />
+      <workItem from="1548128714070" duration="425000" />
+      <workItem from="1548129165092" duration="10472000" />
+      <workItem from="1548148335884" duration="2000" />
+      <workItem from="1548161038287" duration="22000" />
+      <workItem from="1548320947048" duration="702000" />
+      <workItem from="1548330042672" duration="1588000" />
+      <workItem from="1548511768218" duration="9161000" />
+      <workItem from="1548531887361" duration="1651000" />
+      <workItem from="1548575358717" duration="85000" />
+      <workItem from="1548576466814" duration="2354000" />
+      <workItem from="1548590936247" duration="123000" />
+      <workItem from="1548592612266" duration="1100000" />
+      <workItem from="1548600614222" duration="7614000" />
+      <workItem from="1548647114643" duration="276000" />
+      <workItem from="1548655485489" duration="1052000" />
+      <workItem from="1548656570829" duration="107000" />
+      <workItem from="1548656691769" duration="211000" />
+      <workItem from="1548657349128" duration="52000" />
+      <workItem from="1548657413515" duration="744000" />
+      <workItem from="1548663141997" duration="7597000" />
+      <workItem from="1548671706251" duration="1095000" />
+      <workItem from="1548675174684" duration="128000" />
+      <workItem from="1548690438797" duration="4144000" />
+      <workItem from="1548731680554" duration="1541000" />
+      <workItem from="1548733574843" duration="7667000" />
+      <workItem from="1548743104332" duration="3204000" />
+      <workItem from="1548830565058" duration="1485000" />
+      <workItem from="1548834701802" duration="192000" />
+      <workItem from="1548944691552" duration="1111000" />
+      <workItem from="1548951857581" duration="1849000" />
+      <workItem from="1548956691225" duration="33000" />
+      <workItem from="1548994752914" duration="18000" />
+      <workItem from="1549009646961" duration="734000" />
+      <workItem from="1549026761640" duration="361000" />
+      <workItem from="1549088571301" duration="6196000" />
+      <workItem from="1549255033374" duration="3068000" />
+      <workItem from="1549258135222" duration="1300000" />
+      <workItem from="1549353588719" duration="1002000" />
+      <workItem from="1549387067426" duration="16000" />
+      <workItem from="1549563462016" duration="4000" />
+      <workItem from="1549646083802" duration="2207000" />
+      <workItem from="1549650745165" duration="1888000" />
+      <workItem from="1549681446749" duration="1380000" />
+      <workItem from="1549684361318" duration="5999000" />
+      <workItem from="1549691949171" duration="5153000" />
+      <workItem from="1549872047887" duration="19000" />
+      <workItem from="1549910428217" duration="2495000" />
+      <workItem from="1549945393864" duration="9225000" />
+      <workItem from="1550476862349" duration="18064000" />
+      <workItem from="1550508598016" duration="5181000" />
+      <workItem from="1550546770347" duration="689000" />
+      <workItem from="1550549899304" duration="10170000" />
+      <workItem from="1550560390793" duration="94000" />
+      <workItem from="1550564409742" duration="476000" />
+      <workItem from="1550582189105" duration="2357000" />
+      <workItem from="1550683096636" duration="971000" />
+      <workItem from="1550725057900" duration="685000" />
+      <workItem from="1550946798727" duration="599000" />
+      <workItem from="1551086160528" duration="2284000" />
+      <workItem from="1551177064228" duration="6335000" />
+      <workItem from="1551196024757" duration="1671000" />
+      <workItem from="1551312448389" duration="3355000" />
+      <workItem from="1551317274917" duration="3966000" />
+      <workItem from="1551364174894" duration="2683000" />
+      <workItem from="1551382359040" duration="2233000" />
+      <workItem from="1551443829795" duration="6198000" />
+      <workItem from="1551509692524" duration="6394000" />
+      <workItem from="1551611077822" duration="5188000" />
+      <workItem from="1551618428027" duration="1300000" />
+      <workItem from="1551676010491" duration="105000" />
+      <workItem from="1551676416765" duration="761000" />
+      <workItem from="1551761265724" duration="1470000" />
+      <workItem from="1551962777916" duration="1874000" />
+      <workItem from="1552029424541" duration="17218000" />
+      <workItem from="1552051060610" duration="181000" />
+      <workItem from="1552060399623" duration="5033000" />
+      <workItem from="1552327964544" duration="3972000" />
+      <workItem from="1552334603395" duration="602000" />
+      <workItem from="1552361873918" duration="954000" />
+      <workItem from="1552363619597" duration="10268000" />
+      <workItem from="1552390096989" duration="2157000" />
+      <workItem from="1552728988494" duration="4246000" />
+      <workItem from="1552879998974" duration="3113000" />
+      <workItem from="1552953455655" duration="18822000" />
+      <workItem from="1553021980183" duration="2375000" />
+      <workItem from="1553088154399" duration="3764000" />
+      <workItem from="1553092794573" duration="7000" />
+      <workItem from="1553229521553" duration="30000" />
+      <workItem from="1553229566879" duration="629000" />
+      <workItem from="1553413571891" duration="11227000" />
+      <workItem from="1553463202959" duration="6832000" />
+      <workItem from="1553528355948" duration="471000" />
+      <workItem from="1553540496764" duration="1226000" />
+      <workItem from="1553573874458" duration="10278000" />
+      <workItem from="1553775113211" duration="1229000" />
+      <workItem from="1554045282378" duration="4155000" />
+      <workItem from="1554099536308" duration="10148000" />
+      <workItem from="1554118598594" duration="276000" />
+      <workItem from="1554123694026" duration="1934000" />
+      <workItem from="1554153760219" duration="2924000" />
+      <workItem from="1554179698882" duration="9488000" />
+      <workItem from="1554456699945" duration="6765000" />
+      <workItem from="1554476716463" duration="10517000" />
+      <workItem from="1554572479460" duration="5000" />
+      <workItem from="1554572956637" duration="12776000" />
+      <workItem from="1554631237024" duration="11422000" />
+      <workItem from="1554651439685" duration="1000" />
+      <workItem from="1554652194378" duration="15586000" />
+      <workItem from="1554683754335" duration="2063000" />
+      <workItem from="1554685897716" duration="1077000" />
+      <workItem from="1554688505010" duration="7483000" />
+      <workItem from="1554696037627" duration="246000" />
+      <workItem from="1554697580062" duration="802000" />
+      <workItem from="1554698493181" duration="812000" />
+      <workItem from="1554704117531" duration="159000" />
+      <workItem from="1555321525640" duration="996000" />
+      <workItem from="1555383664043" duration="1849000" />
+      <workItem from="1555464369323" duration="599000" />
+      <workItem from="1555471521089" duration="12180000" />
+      <workItem from="1555512246009" duration="2885000" />
+      <workItem from="1555549182095" duration="20704000" />
+      <workItem from="1555610222671" duration="2282000" />
+      <workItem from="1555652795884" duration="2479000" />
+      <workItem from="1555740545721" duration="4243000" />
+      <workItem from="1555782218950" duration="5098000" />
+      <workItem from="1555848367870" duration="27000" />
+      <workItem from="1555848454647" duration="1616000" />
+      <workItem from="1555862077496" duration="3974000" />
+      <workItem from="1555928068272" duration="26029000" />
+      <workItem from="1557542399206" duration="5280000" />
+      <workItem from="1557687148154" duration="4560000" />
+      <workItem from="1557717415581" duration="1586000" />
+      <workItem from="1557736364790" duration="620000" />
+      <workItem from="1557848322505" duration="4992000" />
+      <workItem from="1558330590954" duration="8219000" />
+      <workItem from="1558470605949" duration="1418000" />
+      <workItem from="1558892384457" duration="1082000" />
+      <workItem from="1559169816627" duration="598000" />
+      <workItem from="1559494875141" duration="977000" />
+      <workItem from="1559527996336" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="542280000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.52575487" visible="true" weight="0.27206478" />
+      <window_info id="Structure" order="1" sideWeight="0.4742451" side_tool="true" weight="0.24048583" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.24777327" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.72113675" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Run" order="9" weight="0.2923077" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/ProductDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="889">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Scenario/curlyBraces.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Wei Chen/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/MCQ/Wei Chen/process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/testProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/SAQ/Q1/create.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/home.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/login-view.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/include/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/database/trial_lt2.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/include/Account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/include/AccountDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FINALS-Prep-TrialFinalExam/Trial Lab Test 2 resources-20190405T092521Z-001/resources/q2/reset-view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/M1_Winnie_184317Y_Lab4/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/ProfSolution/originalname.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/ProfSolution/_stylesheets/Css_Reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Winnie/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/ProfSolution/_stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Winnie/css/aboutus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Winnie/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/ProfSolution/_stylesheets/aboutus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/ProfSolution/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1567" column="9" selection-start-line="1567" selection-start-column="9" selection-end-line="1567" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab5/Ex4_create_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab5/Ex4_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab5/Ex4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/test2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab5/Ex4.2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab5/checklogin1.php" />
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab5/checklogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab5/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab5/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab6/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab6/M4_184317Y_Lab6_assign2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab6/M4_184317Y_Lab6_assign1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab6/country_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab6/myworld.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinnieTuition/Lab6/country.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_vhost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-952" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IS113-2019S2-LT2/q1/display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>www</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
