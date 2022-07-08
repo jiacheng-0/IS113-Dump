@@ -1,0 +1,27 @@
+
+D	php:S1125‚")Remove the literal "false" boolean value.(¶òŒ¤øÿÿÿÿ
+8php:S125<"Remove this commented out code.(ÚÓ¡·üÿÿÿÿ
+9php:S125ƒ"Remove this commented out code.(èİÃ—ûÿÿÿÿ
+8php:S125X"Remove this commented out code.(‡‘”µÿÿÿÿÿ
+>	php:S1125¼"(Remove the literal "true" boolean value.(”õ™¦
+8php:S125i"Remove this commented out code.(èİÃ—ûÿÿÿÿ
+3php:S125P"Remove this commented out code.(åÊäÁ
+3php:S125p"Remove this commented out code.(ì¶ß¤
+9php:S125"Remove this commented out code.(øê¾¸şÿÿÿÿ
+8php:S125F"Remove this commented out code.(… ˆ‹ıÿÿÿÿ
+hphp:S127m"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(êÉÇíıÿÿÿÿ
+4php:S125î"Remove this commented out code.(Ûô™ş
+8php:S125}"Remove this commented out code.(ë¸ù¢ùÿÿÿÿ
+n	php:S3776B"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(™”®³ùÿÿÿÿ
+9php:S125ˆ"Remove this commented out code.(¿™¿úÿÿÿÿ
+8php:S125c"Remove this commented out code.(èİÃ—ûÿÿÿÿ
+C	php:S1125·"(Remove the literal "true" boolean value.(äøçĞûÿÿÿÿ
+4php:S125ğ"Remove this commented out code.(‡¬µ¼
+8php:S125v"Remove this commented out code.(èİÃ—ûÿÿÿÿ
+4php:S125ß"Remove this commented out code.(‡¬µ¼
+3php:S125Z"Remove this commented out code.(ÂË‘
+9php:S125¬"Remove this commented out code.(˜¥æËüÿÿÿÿ
+9php:S125ÿ"Remove this commented out code.(ÈÉËÑıÿÿÿÿ
+8php:S125S"Remove this commented out code.(âóÔæÿÿÿÿÿ
+4php:S125ã"Remove this commented out code.(Éî´¼
+9php:S125™"Remove this commented out code.(¡İöıÿÿÿÿ

@@ -40,7 +40,7 @@ if (!isset($_POST['email']) || !isset($_POST['pass'])) {
     }
 }
 
-session_start();
+//session_start();
 
 ?>
 
